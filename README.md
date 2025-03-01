@@ -27,8 +27,8 @@ Make sure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone <your-repository-url>
-   cd <your-project-folder>
+   git clone https://github.com/HosseinSiw/pcos-detection-API-using-ML
+   cd pcos-detection-API-using-ML
 
 2. Create a virtual environment and activate it:
     ```bash
